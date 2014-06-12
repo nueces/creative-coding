@@ -18,7 +18,13 @@
  * - 't' to draw with triangles.
  * - 'a' to use an aleatory shape.
  * - 'd' to roll a dice to choose the next shape.
+ *
+ * Use the left mouse button to draw as in the original exercise.
+ * Use the middle mouse button to draw with the paint brush.
+ * USe the right mouse button to use the erease tool. (Just a withe ellipse ;).
+ *
  */
+
 import gifAnimation.*;
 
 GifMaker gifExport;
