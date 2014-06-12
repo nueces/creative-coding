@@ -3,7 +3,11 @@
  * Week 1, 01 - Draw your name!
  * by Indae Hwang and Jon McCormack
  * Copyright (c) 2014 Monash University
- 
+ *
+ * To run this version you need install the gifAnimation in your libraries folder.
+ * download it from: http://extrapixel.github.io/gif-animation/
+ *
+
  * This program allows you to draw using the mouse.
  * Press 'S' to save your drawing as an image to the file "yourName-XXXX.jpg"
  * Press 'R' to erase your drawing and start with a blank screen
