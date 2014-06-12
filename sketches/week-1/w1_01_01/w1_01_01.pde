@@ -5,9 +5,15 @@
  * Copyright (c) 2014 Monash University
  
  * This program allows you to draw using the mouse.
- * Press 's' to save your drawing as an image to the file "yourName.jpg"
- * Press 'r' to erase your drawing and start with a blank screen
- * 
+ * Press 'S' to save your drawing as an image to the file "yourName-XXXX.jpg"
+ * Press 'R' to erase your drawing and start with a blank screen
+ * Press 'G' to save your drawing as an gif image to the file "yourName.gif"
+ * Select a paint brush:
+ * - 'r' to draw with rectangles.
+ * - 'e' to draw with ellipses.
+ * - 't' to draw with triangles.
+ * - 'a' to use an aleatory shape.
+ * - 'd' to roll a dice to choose the next shape.
  */
 import gifAnimation.*;
 
